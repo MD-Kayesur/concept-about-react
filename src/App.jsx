@@ -18,10 +18,12 @@ function App() {
     {name : 'apurbo', contact : 100}
    ]
   const Actors = ['kayes', 'moklas', 'shojon' ,'aktarul','mufassir'] 
+
+  
   return (
     <>
  
-
+ 
 
       <MainIdea   name=' MD.Kayesur' ></MainIdea>
  {
